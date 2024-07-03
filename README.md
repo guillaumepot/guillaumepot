@@ -1,6 +1,7 @@
 ## About Me 
 Tech & Data passsionate, I pursue my professional goals as IA Engineer.
-Mlops, Data Engineering & Machine Learning, I also have a strong foundation as team & project managament.
+
+I learn continuously about Mlops, Data Engineering & Machine Learning, I also have a strong foundation as team & project managament.
 
 
 ---
