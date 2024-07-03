@@ -12,7 +12,7 @@ Love Ops (Mlops), Data Engineering & Machine Kearning, I also have a strong foun
 
 -▶ Develop my own LLM chatbot
 
--▶ AWS Solution Architect certificiation
+-▶ AWS Solution Architect certificiation & AWS Mlops
 
 
 
