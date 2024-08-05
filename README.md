@@ -11,7 +11,7 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 
 -▶ Improve my personal bank app project (accounting, stats, analyses)
 
--▶ Develop my own LLM chatbot
+-▶ Train delay prediction project
 
 -▶ AWS Solution Architect certificiation & AWS Mlops
 
@@ -19,7 +19,7 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 
 ### Learning on 🎯 
 
--▶ Currently taking a summer pause about learning.
+-▶ Started a Data Engineering degree (2024, August -> October)
 
 
 ---
