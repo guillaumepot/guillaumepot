@@ -10,16 +10,15 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 ### Working on 🚀
 
 -▶ Improve my personal bank app project (accounting, stats, analyses)
-
 -▶ Train delay prediction project
 
--▶ AWS Solution Architect certificiation & AWS Mlops
 
 
 
 ### Learning on 🎯 
 
 -▶ Started a Data Engineering degree (2024, August -> October)
+-▶ AWS Solution Architect certificiation & AWS Mlops
 
 
 ---
@@ -59,9 +58,9 @@ You can reach me through LinkedIn for any collaboration purpose about Data proje
 
 ### Data ingestion, requests
 
- PostGres | BigQuery | Snowflake | ElasticSearch | 
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" title="BigQuery" alt="BigQuery" width="55" height="55"/>|<img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2021/02/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.jpg?ssl=1" title="Snowflake" alt="Snowflake" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch" alt="ElasticSearch" width="55" height="55"/>|
+ PostGres | BigQuery | Snowflake | ElasticSearch | MongoDB |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" title="BigQuery" alt="BigQuery" width="55" height="55"/>|<img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2021/02/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.jpg?ssl=1" title="Snowflake" alt="Snowflake" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch" alt="ElasticSearch" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
 
 
 
