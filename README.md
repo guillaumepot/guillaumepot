@@ -54,9 +54,17 @@ You can reach me through LinkedIn for any collaboration purpose about Data proje
 | <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY=w240-h480-rw" title="BeautifulSoup" alt="BeautifulSoup" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" title="Librosa" alt="Librosa" width="55" height="55"/>| <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="NLTK" alt="NLTK" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="openCV" alt="openCV" width="55" height="55"/>|
 
 
+### Data Ingestion
+
+| Spark | Kafka | Hadoop |
+|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
 
 
-### Data ingestion, Databases, Warehouse
+
+
+
+### Data Storage
 
 | PostGres | BigQuery | Snowflake | ElasticSearch | MongoDB | Redis | Cassandra | HBase | Neo4J
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
