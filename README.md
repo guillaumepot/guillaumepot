@@ -41,7 +41,7 @@ You can reach me through LinkedIn for any collaboration purpose about Data proje
 ### Languages
 
 | Python3 | Java | Scala | SQL 
-|----------|----------|
+|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scala/scala-original.svg" title="Scala"  alt="Scala" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL"  alt="SQL" width="55" height="55"/> 
   
 
