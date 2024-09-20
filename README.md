@@ -54,11 +54,11 @@ You can reach me through LinkedIn for any collaboration purpose about Data proje
 | <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY=w240-h480-rw" title="BeautifulSoup" alt="BeautifulSoup" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://avatars.githubusercontent.com/u/18124827?s=280&v=4" title="Librosa" alt="Librosa" width="55" height="55"/>| <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="NLTK" alt="NLTK" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="openCV" alt="openCV" width="55" height="55"/>|
 
 
-### Data Ingestion
+### Data Batch | Data Streaming
 
-| Spark | Kafka | Hadoop | Flink |
-|----------|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> | <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" title="Flink" alt="Flink" width="55" height="55"/> |
+| Spark | Kafka | Hadoop | Flink | DBT
+|----------|----------|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> | <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" title="Flink" alt="Flink" width="55" height="55"/>|<img src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" title="DBT" alt="DBT" width="55" height="55"/>|
 
 
 
@@ -88,11 +88,11 @@ Matplotlib | Seaborn | Bokeh | Plotly | Folium | PowerBI | Looker Studio | Table
 
 
 
-### Orchestration, ETL, ELT
+### Orchestration
 
-| Airflow | Mage | DBT | MLflow |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow"  alt="Airflow" width="55" height="55"/>|  <img src="https://avatars.githubusercontent.com/u/69371472?s=280&v=4" title="Mage"  alt="Mage" width="55" height="55"/>|  <img src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" title="DBT" alt="DBT" width="55" height="55"/>|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVEAh0QmSS7rgtw5gnWqEjnLmuJ6ihC9xjQ&s" title="MLflow" alt="MLflow" width="55" height="55"/>|
+| Airflow | Mage | MLflow |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow"  alt="Airflow" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/69371472?s=280&v=4" title="Mage"  alt="Mage" width="55" height="55"/>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVEAh0QmSS7rgtw5gnWqEjnLmuJ6ihC9xjQ&s" title="MLflow" alt="MLflow" width="55" height="55"/>|
 
 
 ### API
