@@ -56,9 +56,9 @@ You can reach me through LinkedIn for any collaboration purpose about Data proje
 
 ### Data Ingestion
 
-| Spark | Kafka | Hadoop |
-|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
+| Spark | Kafka | Hadoop | Flink |
+|----------|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> | <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" title="Flink" alt="Flink" width="55" height="55"/> |
 
 
 
