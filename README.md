@@ -1,7 +1,7 @@
 ## About Me 
 Tech & Data passsionate, I pursue my professional goals as IA & Data engineering.
 
-Learning continuously about Mlops, Data Engineering & Machine Learning, I also have a strong foundation as team & project managament.
+Learning continuously about Mlops, Data Engineering & Machine Learning, I also have a strong foundation as team & project management.
 
 
 ---
@@ -10,6 +10,7 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 ### Working on 🚀
 
 -▶ Improve my personal bank app project (accounting, stats, analyses)
+
 -▶ Train delay Data & predictions analysis
 
 
@@ -18,6 +19,7 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 ### Learning on 🎯 
 
 -▶ Specialising and getting some skills on Data Engineering (Data streaming)
+
 -▶ AWS Solution Architect certificiation
 
 
