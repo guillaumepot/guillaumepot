@@ -9,9 +9,11 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 
 ### Working on 🚀
 
+-▶ Micro service architecture, Mlops & Data Engineering for an association project (ITSAP, BeeGis) ( Currently private Gitlab Repo)
+
 -▶ Improve my personal bank app project (accounting, stats, analyses)
 
--▶ Train delay Data & predictions analysis
+-▶ Train delay Data & predictions analysis (paused)
 
 
 
