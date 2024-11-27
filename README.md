@@ -9,18 +9,14 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 
 ### Working on 🚀
 
--▶ Micro service architecture, Mlops & Data Engineering for an association project (ITSAP, BeeGis) ( Currently private Gitlab Repo)
+-▶ Micro service architecture, Mlops & Data Engineering for an association project (ITSAP, BeeGis) (Currently private Gitlab Repo)
 
--▶ Improve my personal bank app project (accounting, stats, analyses)
-
--▶ Train delay Data & predictions analysis (paused)
+-▶ Data4Good Off season project: ENR (Joined october 2024, starting to help december 2024)
 
 
 
 
-### Learning on 🎯 
-
--▶ Specialising and getting some skills on Data Engineering (Data streaming)
+### Current goal 🎯 
 
 -▶ AWS Solution Architect certificiation
 
