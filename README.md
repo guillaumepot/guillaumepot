@@ -102,6 +102,15 @@ Matplotlib | Seaborn | Bokeh | Plotly | Folium | PowerBI | Looker Studio | Table
 |<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>|
 
 
+
+### Monitoring
+
+| Prometheus | Grafana |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="55" height="55"/>|
+
+
+
 ### CI / CD
 
 | Git | Gilab | Jenkins | Pytest |
