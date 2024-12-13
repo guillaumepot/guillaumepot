@@ -9,15 +9,13 @@ Learning continuously about Mlops, Data Engineering & Machine Learning, I also h
 
 ### Working on 🚀
 
--▶ Micro service architecture, Mlops & Data Engineering for an association project (ITSAP, BeeGis) (Currently private Gitlab Repo)
-
+-▶ DataScience & Data Analysis teaching for students as Freelance for Omnes Education
 -▶ Data4Good Off season project: ENR (Joined october 2024, starting to help december 2024)
 
 
 
 
 ### Current goal 🎯 
-
 -▶ AWS Solution Architect certificiation
 
 
