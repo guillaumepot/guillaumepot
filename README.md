@@ -150,6 +150,3 @@ Matplotlib | Seaborn | Bokeh | Plotly | Folium | PowerBI | Looker Studio | Table
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guillaumepot)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3117260" style='border:none;'></img>
-
